@@ -147,4 +147,4 @@ function letterCounts() {
 }
 //Run the function
 console.log('Checking letters in ' + input);
-console.log(letterCounts())
+console.log(letterCounts());
